@@ -1,13 +1,16 @@
 # Task1_MaincraftsTechnology
 
 ***OVERVIEW:-***
+
 This is Task 1 of Maincrafts Technology. In this task, I had to analyze and explore Student Performance dataset in Subjects- Maths and Porteguese. 
 This Jupyter Notebook analyzes students’ academic performance in Mathematics and Portuguese using the Student Performance dataset.
 
 ***STEPS:-***
-I have imported Pandas and matplotlib libraries for cleaning, analyzing and visualizing the data.
-I have merged the data and added a subject column having maths/porteguese and handled the null values and removed the duplicate values.
-I had also renamed the Grades (G1,G2,G3) of Maths to MG1.MG2,MG3 and of Porteguese dataset to PG1,PG2,PG3. So we can have a detailed overview of the data.
+1. I have imported Pandas and matplotlib libraries for cleaning, analyzing and visualizing the data.
+2. I have merged the data and added a subject column having maths/porteguese and handled the null values and removed the duplicate values.
+3. I had also renamed the Grades (G1,G2,G3) of Maths to MG1.MG2,MG3 and of Porteguese dataset to PG1,PG2,PG3. So we can have a detailed overview of the data.
+4. Then I have made some calculations for the Analysis.
+5. Then based on the modified data we create the charts to understant the data in a glance.
 
 ***ANALYSIS:-***
  - Average Final Grade i.e., average of G3
