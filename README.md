@@ -10,7 +10,7 @@ This Jupyter Notebook analyzes students’ academic performance in Mathematics a
 2. I have merged the data and added a subject column having maths/porteguese and handled the null values and removed the duplicate values.
 3. I had also renamed the Grades (G1,G2,G3) of Maths to MG1.MG2,MG3 and of Porteguese dataset to PG1,PG2,PG3. So we can have a detailed overview of the data.
 4. Then I have made some calculations for the Analysis.
-5. Then based on the modified data we create the charts to understant the data in a glance.
+5. Then based on the modified data we create the charts to understand the data in a glance.
 
 ***ANALYSIS:-***
  - Average Final Grade i.e., average of G3
